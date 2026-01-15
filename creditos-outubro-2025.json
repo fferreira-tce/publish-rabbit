@@ -1,0 +1,871 @@
+[
+  {
+    "codUnidadeGestora": "101004",
+    "valor": 100,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Câmara Municipal de Alagoa Nova"
+  },
+  {
+    "codUnidadeGestora": "101010",
+    "valor": 150,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Câmara Municipal de Aparecida"
+  },
+  {
+    "codUnidadeGestora": "101028",
+    "valor": 50,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Câmara Municipal de Bernardino Batista"
+  },
+  {
+    "codUnidadeGestora": "101032",
+    "valor": 50,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Câmara Municipal de Bom Sucesso"
+  },
+  {
+    "codUnidadeGestora": "101034",
+    "valor": 50,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Câmara Municipal de Boqueirão"
+  },
+  {
+    "codUnidadeGestora": "101039",
+    "valor": 50,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Câmara Municipal de Cabaceiras"
+  },
+  {
+    "codUnidadeGestora": "101082",
+    "valor": 50,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Câmara Municipal de Guarabira"
+  },
+  {
+    "codUnidadeGestora": "101087",
+    "valor": 100,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Câmara Municipal de Imaculada"
+  },
+  {
+    "codUnidadeGestora": "101105",
+    "valor": 100,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Câmara Municipal de Livramento"
+  },
+  {
+    "codUnidadeGestora": "101111",
+    "valor": 150,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Câmara Municipal de Manaira"
+  },
+  {
+    "codUnidadeGestora": "101131",
+    "valor": 100,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Câmara Municipal de Olivêdos"
+  },
+  {
+    "codUnidadeGestora": "101143",
+    "valor": 350,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Câmara Municipal de Pilar"
+  },
+  {
+    "codUnidadeGestora": "101159",
+    "valor": 50,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Câmara Municipal de Riachão do Bacamarte"
+  },
+  {
+    "codUnidadeGestora": "101175",
+    "valor": 100,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Câmara Municipal de Joca Claudino"
+  },
+  {
+    "codUnidadeGestora": "101183",
+    "valor": 100,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Câmara Municipal de São João do Rio do Peixe"
+  },
+  {
+    "codUnidadeGestora": "101188",
+    "valor": 100,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Câmara Municipal de São José de Piranhas"
+  },
+  {
+    "codUnidadeGestora": "101192",
+    "valor": 50,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Câmara Municipal de São José do Sabugi"
+  },
+  {
+    "codUnidadeGestora": "101199",
+    "valor": 650,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Câmara Municipal de São Vicente do Seridó"
+  },
+  {
+    "codUnidadeGestora": "101203",
+    "valor": 50,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Câmara Municipal de Serra Grande"
+  },
+  {
+    "codUnidadeGestora": "101221",
+    "valor": 50,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Câmara Municipal de Vieirópolis"
+  },
+  {
+    "codUnidadeGestora": "201006",
+    "valor": 50,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Alcantil"
+  },
+  {
+    "codUnidadeGestora": "201009",
+    "valor": 150,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Amparo"
+  },
+  {
+    "codUnidadeGestora": "201015",
+    "valor": 50,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Areia de Baraúnas"
+  },
+  {
+    "codUnidadeGestora": "201017",
+    "valor": 50,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Aroeiras"
+  },
+  {
+    "codUnidadeGestora": "201018",
+    "valor": 100,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Assunção"
+  },
+  {
+    "codUnidadeGestora": "201032",
+    "valor": 100,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Bom Sucesso"
+  },
+  {
+    "codUnidadeGestora": "201037",
+    "valor": 150,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Brejo dos Santos"
+  },
+  {
+    "codUnidadeGestora": "201042",
+    "valor": 50,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Cacimba de Areia"
+  },
+  {
+    "codUnidadeGestora": "201053",
+    "valor": 450,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Caraúbas"
+  },
+  {
+    "codUnidadeGestora": "201054",
+    "valor": 200,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Carrapateira"
+  },
+  {
+    "codUnidadeGestora": "201058",
+    "valor": 450,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Caturité"
+  },
+  {
+    "codUnidadeGestora": "201059",
+    "valor": 200,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Conceição"
+  },
+  {
+    "codUnidadeGestora": "201064",
+    "valor": 100,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Coxixola"
+  },
+  {
+    "codUnidadeGestora": "201079",
+    "valor": 50,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Fagundes"
+  },
+  {
+    "codUnidadeGestora": "201090",
+    "valor": 100,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Itaporanga"
+  },
+  {
+    "codUnidadeGestora": "201098",
+    "valor": 50,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Junco do Seridó"
+  },
+  {
+    "codUnidadeGestora": "201101",
+    "valor": 50,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Lagoa"
+  },
+  {
+    "codUnidadeGestora": "201108",
+    "valor": 400,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Mãe d´ Água"
+  },
+  {
+    "codUnidadeGestora": "201121",
+    "valor": 150,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Montadas"
+  },
+  {
+    "codUnidadeGestora": "201122",
+    "valor": 200,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Monte Horebe"
+  },
+  {
+    "codUnidadeGestora": "201128",
+    "valor": 50,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Nova Olinda"
+  },
+  {
+    "codUnidadeGestora": "201129",
+    "valor": 450,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Nova Palmeira"
+  },
+  {
+    "codUnidadeGestora": "201130",
+    "valor": 400,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Olho d´ Água"
+  },
+  {
+    "codUnidadeGestora": "201133",
+    "valor": 50,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Parari"
+  },
+  {
+    "codUnidadeGestora": "201147",
+    "valor": 50,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Pitimbu"
+  },
+  {
+    "codUnidadeGestora": "201154",
+    "valor": 250,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Puxinanã"
+  },
+  {
+    "codUnidadeGestora": "201155",
+    "valor": 150,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Queimadas"
+  },
+  {
+    "codUnidadeGestora": "201157",
+    "valor": 100,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Remígio"
+  },
+  {
+    "codUnidadeGestora": "201160",
+    "valor": 150,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Riachão do Poço"
+  },
+  {
+    "codUnidadeGestora": "201161",
+    "valor": 100,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Riacho de Santo Antônio"
+  },
+  {
+    "codUnidadeGestora": "201164",
+    "valor": 250,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Salgadinho"
+  },
+  {
+    "codUnidadeGestora": "201167",
+    "valor": 50,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Santa Cruz"
+  },
+  {
+    "codUnidadeGestora": "201168",
+    "valor": 250,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Santa Helena"
+  },
+  {
+    "codUnidadeGestora": "201170",
+    "valor": 150,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Santa Luzia"
+  },
+  {
+    "codUnidadeGestora": "201176",
+    "valor": 50,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Santo André"
+  },
+  {
+    "codUnidadeGestora": "201179",
+    "valor": 150,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de São Domingos"
+  },
+  {
+    "codUnidadeGestora": "201180",
+    "valor": 100,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de São Domingos do Cariri"
+  },
+  {
+    "codUnidadeGestora": "201181",
+    "valor": 50,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de São Francisco"
+  },
+  {
+    "codUnidadeGestora": "201183",
+    "valor": 200,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de São João do Rio do Peixe"
+  },
+  {
+    "codUnidadeGestora": "201188",
+    "valor": 150,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de São José de Piranhas"
+  },
+  {
+    "codUnidadeGestora": "201191",
+    "valor": 50,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de São José do Brejo do Cruz"
+  },
+  {
+    "codUnidadeGestora": "201195",
+    "valor": 300,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de São Mamede"
+  },
+  {
+    "codUnidadeGestora": "201197",
+    "valor": 150,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de São Sebastião de Lagoa de Roça"
+  },
+  {
+    "codUnidadeGestora": "201198",
+    "valor": 100,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de São Sebastião do Umbuzeiro"
+  },
+  {
+    "codUnidadeGestora": "201200",
+    "valor": 450,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Sapé"
+  },
+  {
+    "codUnidadeGestora": "201205",
+    "valor": 50,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Serraria"
+  },
+  {
+    "codUnidadeGestora": "201210",
+    "valor": 50,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Sossêgo"
+  },
+  {
+    "codUnidadeGestora": "201212",
+    "valor": 150,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Prefeitura Municipal de Sumé"
+  },
+  {
+    "codUnidadeGestora": "301031",
+    "valor": 50,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Instituto de Prev, e Assistência do Município de Bom Jesus"
+  },
+  {
+    "codUnidadeGestora": "301041",
+    "valor": 300,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Instituto Cachoeirense de Previdência Municipal"
+  },
+  {
+    "codUnidadeGestora": "301082",
+    "valor": 50,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Instituto de Assistência e Prev, Mun, de Guarabira"
+  },
+  {
+    "codUnidadeGestora": "301095",
+    "valor": 50,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "SEMOB - Superintendência Executiva de Mobilidade Urbana"
+  },
+  {
+    "codUnidadeGestora": "301139",
+    "valor": 50,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Instituto de Prev, Municipal de Pedras de Fogo"
+  },
+  {
+    "codUnidadeGestora": "301144",
+    "valor": 100,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Instituto de Prev, e Assistência do Município de Pilões"
+  },
+  {
+    "codUnidadeGestora": "301150",
+    "valor": 150,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Instituto de Prev, dos Serv, Pub, de Poço José de Moura"
+  },
+  {
+    "codUnidadeGestora": "304095",
+    "valor": 300,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Autarquia Especial Municipal de Limpeza Urbana - EMLUR"
+  },
+  {
+    "codUnidadeGestora": "601067",
+    "valor": 100,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Instituto de Previdência dos Servidores de Cuité"
+  },
+  {
+    "codUnidadeGestora": "601167",
+    "valor": 100,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Instituto de Previdência dos Servidores de Santa Cruz"
+  },
+  {
+    "codUnidadeGestora": "601176",
+    "valor": 50,
+    "motivo": "Devido ao pagamento das multas do balancete.",
+    "tipoEnvioInformacao": {
+      "tipoEnvio": 0,
+      "competencia": "2025-10"
+    },
+    "createdBy": "fferreira",
+    "nomeUnidadeGestora": "Fundo Municipal de Saúde de Santo André"
+  }
+]
